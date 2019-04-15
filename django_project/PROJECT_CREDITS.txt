@@ -1,0 +1,3 @@
+credits for this blog-site goes to Corey Schafer on Youtube and his Python Django Tutorial videos. The code produced in this directory was written by following Corey Schafer's youtube series for Django Development.
+
+
